@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mitesh Vora</h1>
+<h1 align="center">Hi 👋, I'm Nirav Vyas</h1>
 <h3 align="center">A Passionate Flutter Developer From India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Flutter Development**
 
-- 📫 How to reach me **voramitesh007@gmail.com**
+- 📫 How to reach me **niravvyas1234@gmail.com**
 
 - ⚡ Fun fact **Let's Do Some Code**
 
